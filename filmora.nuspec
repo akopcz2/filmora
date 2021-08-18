@@ -3,21 +3,21 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>filmora</id>
-    <version></version>
-    <packageSourceUrl></packageSourceUrl>
+    <version>1.901</version>
+    <packageSourceUrl>https://github.com/akopcz2/filmora</packageSourceUrl>
     <owners>digitalkop</owners>
     <title>Filmora</title>
     <authors>Wondershare</authors>
     <projectUrl>https://filmora.wondershare.com/</projectUrl>
     <iconUrl>https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-square.svg</iconUrl>
     <copyright></copyright>
-    <licenseUrl></licenseUrl>
+    <licenseUrl>https://www.wondershare.net/company/end-user-license-agreement.html</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <projectSourceUrl></projectSourceUrl>
-    <docsUrl></docsUrl>
+    <projectSourceUrl>https://filmora.wondershare.com/</projectSourceUrl>
+    <docsUrl>https://filmora.wondershare.net/support.html</docsUrl>
     <tags></tags>
     <summary></summary>
-    <description></description>
+    <description>Filmora Video Editor by Wondershare</description>
   </metadata>
   <files>
     <!-- this section controls what actually gets packaged into the Chocolatey package -->
